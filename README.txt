@@ -1,7 +1,4 @@
-Name: Ahmed Moustafa
-UARK ID: 010853047
-
-Computer Networks Homework 6 ATM Socket Program
+ATM Socket Program:
 
 The program has a client and server file where the client takes user input for which request we will use. On the server, the client starts with $100
 and runs the code corresponding to the selected action/request (deposit, withdraw, check balance, or close client). When depositing, you can add a
