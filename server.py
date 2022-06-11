@@ -1,6 +1,3 @@
-#Name: Ahmed Moustafa
-#UARK ID: 010853047
-
 import socket
 
 class Bank:
